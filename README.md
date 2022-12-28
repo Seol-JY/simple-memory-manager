@@ -6,7 +6,7 @@
 사용환경이나 글꼴에 따라 화면이 깨져 보일 수 있습니다.
 
 
-## 시연 연상
+## 시연 영상
 [유튜브 영상](https://www.youtube.com/watch?v=UusFe4qRObY)  
 
 ## 실행 방법
